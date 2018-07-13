@@ -25,7 +25,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1.5"
-            android:autoSizeMaxTextSize="28dp"
+            android:autoSizeMaxTextSize="28sp"
             android:textColor="@android:color/black"
             android:textStyle="bold" />
 
@@ -34,7 +34,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:autoSizeMaxTextSize="20dp"
+            android:autoSizeMaxTextSize="20sp"
             android:textColor="@android:color/black" />
 
         <TextView
@@ -42,7 +42,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:autoSizeMaxTextSize="20dp"
+            android:autoSizeMaxTextSize="20sp"
             android:textColor="@android:color/black" />
 
         <TextView
@@ -50,7 +50,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:autoSizeMaxTextSize="20dp"
+            android:autoSizeMaxTextSize="20sp"
             android:textColor="@android:color/black" />
 
         <TextView
@@ -58,7 +58,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:autoSizeMaxTextSize="20dp"
+            android:autoSizeMaxTextSize="20sp"
             android:textColor="@android:color/black" />
 
     </LinearLayout>
